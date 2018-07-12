@@ -1,0 +1,49 @@
+* Deadlines and Grading
+
+  There are four deadlines for the course project:
+  * 9/19/2017: Submission of your preference list of the projects.
+  * 10/24/2017: Submission of your first write-up. (7%)
+  * 11/14/2017: Submission of your second write-up. (13%)
+  * 11/30/2017: Final submission. (80%)
+   
+  
+* Grading Criterion for the Final Submission
+
+  1. Readme file(10%):
+  You need to submit a Readme file which contains
+    a. How to compile and run your compiler;
+    b. The functionality of your compiler and a brief description of
+       your implementation including the high-level data structure and
+       algorithms.
+    c. What are the outputs of your compiler on the test cases included in your
+  submission (see below), and explain how these outputs demonstrate the
+  functionalities of your compiler.
+
+  2. Code Readability(5%):
+  Try to make it as easy as possible for the grader to understand
+  your code. Here are some suggestions:
+  Use meaningful identifiers such as variable names, function
+  names and so on.
+  Comment your code. Show the functionality of each function you
+  have. You are welcomed to comment your code whenever you find it
+  hard for others to understand.
+
+  3. Test Cases(20%):
+  Your submission must include at least three test
+  cases for testing your compiler. If the project instruction has
+  explicit requirements on test cases, those requirements should be
+  followed. The test cases can include those already provided to
+  you. The test cases shall represent some typical usage scenarios,
+  rather than simple variants of a single program.
+  
+  3. Implementation(65%): This part is the most important part of this
+  project.  Your scanner should be able to be compiled and run
+  successfully by following your Readme.  If your scanner fails in
+  doing so, your project won't be graded further and you will lose all
+  the 85 points. One exception is that you have DETAILED documents on
+  your implementation, the bugs in your code and how you plan to fix
+  them if you had more time.
+
+  4. Extra Features (10%): You may get up to 10% extra credits if your
+  compiler can supportsome extra features (e.g., relaxing some of the
+  assumptions).
